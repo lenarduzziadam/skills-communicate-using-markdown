@@ -6,3 +6,14 @@
 ###### <h6> header test </h6>
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+### Beautiful code example of the highest caliber
+
+```jarlang
+forge add(a,b){
+    mend a + b
+}
+
+add(2,3): # returns 5
+```
