@@ -4,3 +4,5 @@
 #### <h4> header test </h4>
 ##### <h5> header test </h5>
 ###### <h6> header test </h6>
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
