@@ -17,3 +17,7 @@ forge add(a,b){
 
 add(2,3): # returns 5
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
